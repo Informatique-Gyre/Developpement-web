@@ -1,1 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+  
+  <h1> Krypto Night </h1>
 
+  
+  <ul>
+  <li> Ricardo Machado Mota </li>
+  <li> 2M05 </li>
+  <li> Ceci est la page web des consommateurs d'informations. Informativement garnie d'infos. </li>
+  </ul>
+  
+  <h2> My favourite artists :) </h2>
+  <ol>
+  <li> Breaking Bad car "Los Pollos Hermanos" are on top </li>
+  <li> Regular Show car c'est régulier </li>
+  <li> H car Eric et Ramzy! </li>
+  <li> Scrubs car derrière chaque épisode humouristique se trouve une face profonde </li>
+  <li> Wakfu car c'est de l'art !!! </li>
+  </ol>
+  <table border="1">
+    <tr>
+        <th><strong>Ed Sheeran</strong></th>
+        <th><strong>Billie Eilish</strong></th>
+        <th><strong>The Weeknd</strong></th>
+        <th><strong>Adele</strong></th>
+    </tr>
+    <tr>
+        <td><em>Shape of You</em></td>
+        <td><em>Bad Guy</em></td>
+        <td><em>Blinding Lights</em></td>
+        <td><em>Someone Like You</em></td>
+    </tr>
+    <tr>
+        <td><em>Perfect</em></td>
+        <td><em>Everything I Wanted</em></td>
+        <td><em>Starboy</em></td>
+        <td><em>Rolling in the Deep</em></td>
+    </tr>
+</table>
+
+
+</head>
+	<body>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bDtycOoiHYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<img src="https://preview.redd.it/kwq2ln32f4n61.jpg?width=768&format=pjpg&auto=webp&s=3a1a9fa33a5516e3cee7766e449de8c34522cd7d"
+
+<ul>
+    <li><a href="https://www.amazon.com/dp/0141036141" target="_blank">Le Seigneur des Anneaux</a></li>
+    <li><a href="https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone" target="_blank">Harry Potter à l'école des sorciers</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Les_Misérables" target="_blank">Les Misérables</a></li>
+</ul>
+<ul>
+    <li>
+        <a href="https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone" target="_blank">
+            Harry Potter à l'école des sorciers
+        </a>
+        <br>
+        <img src="https://images.gr-assets.com/books/1474154022l/3.jpg" alt="Couverture de Harry Potter à l'école des sorciers" width="150">
+    </li>
+    <li>
+        <a href="https://www.amazon.com/dp/0141036141" target="_blank">Le Seigneur des Anneaux</a>
+    </li>
+    <li>
+        <a href="https://fr.wikipedia.org/wiki/Les_Misérables" target="_blank">Les Misérables</a>
+    </li>
+</ul>
+
+
+	</body>
+</html>
